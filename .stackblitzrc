@@ -1,0 +1,3 @@
+{
+  "startCommand": "cd my-addon && pnpm install && pnpm run start"
+}
